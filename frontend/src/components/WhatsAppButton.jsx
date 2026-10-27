@@ -1,5 +1,5 @@
 const WHATSAPP_NUMBER = "254782634172";
-const MESSAGE = "Hello Nyota Funds, I have a query.";
+const MESSAGE = "Hello Nyota Funds, Nitaaply aje ili niweze kupata Nyota funds?, Nisaidie";
 
 export default function WhatsAppButton() {
   const href = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(MESSAGE)}`;
