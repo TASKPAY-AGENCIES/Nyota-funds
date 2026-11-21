@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "254104040880";
+const WHATSAPP_NUMBER = "254136228696";
 const MESSAGE = "Hello Nyota Funds, Nitaaply aje ili niweze kupata Nyota funds?, Nisaidie";
 
 export default function WhatsAppButton() {
